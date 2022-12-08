@@ -507,7 +507,7 @@ img.bgimg3 {
 /* Responsive */
 
 
-@media (max-width:320px) {
+/* @media (max-width:320px) {
     a.logo {
         height: 89px;
         width: 13%;
@@ -790,7 +790,7 @@ img.bgimg3 {
     }
 }
 
-
+ */
 @media (max-width:360px) {
     .container {
         display: none;
